@@ -1,3 +1,3 @@
 # Programa-o-de-Computdores
-Aula de Programação de Computadores voltada para Python.
+Aula de Programação de Computadores em Python.
 Projetos em Python realizados em aula e trabalhos do semestre.
